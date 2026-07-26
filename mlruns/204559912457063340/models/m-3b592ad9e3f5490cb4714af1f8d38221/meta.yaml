@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Priyansh/Documents/Telco_customer_chrun_MLE/mlruns/204559912457063340/models/m-3b592ad9e3f5490cb4714af1f8d38221/artifacts
+creation_timestamp: 1782829790395
+experiment_id: '204559912457063340'
+last_updated_timestamp: 1782829799802
+model_id: m-3b592ad9e3f5490cb4714af1f8d38221
+model_type: null
+name: model
+source_run_id: ee7e9796c93a49e798f79eb883c3fa1e
+status: 2
+status_message: null

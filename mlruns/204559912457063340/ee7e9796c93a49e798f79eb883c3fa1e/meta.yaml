@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Priyansh/Documents/Telco_customer_chrun_MLE/mlruns/204559912457063340/ee7e9796c93a49e798f79eb883c3fa1e/artifacts
+end_time: 1782829799825
+entry_point_name: ''
+experiment_id: '204559912457063340'
+lifecycle_stage: active
+run_id: ee7e9796c93a49e798f79eb883c3fa1e
+run_name: burly-shad-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782829788712
+status: 3
+tags: []
+user_id: Priyansh

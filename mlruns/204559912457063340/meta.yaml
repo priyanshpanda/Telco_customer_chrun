@@ -1,0 +1,9 @@
+artifact_location: file:///C:/Users/Priyansh/Documents/Telco_customer_chrun_MLE/mlruns/204559912457063340
+creation_time: 1782829788387
+effective_trace_archival_retention: null
+experiment_id: '204559912457063340'
+last_update_time: 1782829788387
+lifecycle_stage: active
+name: Telco Churn - XGBoost
+trace_location: null
+workspace: default
